@@ -1,0 +1,1 @@
+# OpencvAndriodStudio_installed
